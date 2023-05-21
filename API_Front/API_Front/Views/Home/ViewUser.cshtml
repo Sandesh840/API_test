@@ -1,0 +1,26 @@
+﻿@model List<API_Front.Models.User>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>User Name</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if(Model!=null)
+            {
+            @foreach (API_Front.Models.User item in Model)
+                {
+                <tr>
+                    <th>@item.Id</th>
+                    <th>@item.UserName</th>
+                    <th>@item.Address</th>
+                    <td><a href="UpdateUser/@item.Id">View</a></td>
+                    <td><a href="DeleteUserById/@item.Id">Delete</a></td>
+                </tr>
+                }
+            }
+        </tbody>
+    </table>
