@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BnwAmTMOwIev038aiY62Wpm9di2GKEgAHR6u1tH6yHUMzLFueaEQHm2ZtPqBT9JLnaAqhZYSZOCrkqzXrDQ+cQ==",
+  "dgSpecHash": "78bwo2rrmXPQIdDZGOQp6dVN4+/RpVWmFXziGXfuGgHhiftr2EIyEjYK0Bfuxnte7NQteXd97i+HM5WUhLMZnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\course\\API_Front\\API_Front\\API_Front.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\course\\API\\API_Front\\API_Front\\API_Front.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

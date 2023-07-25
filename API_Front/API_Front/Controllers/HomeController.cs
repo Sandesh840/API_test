@@ -1,5 +1,4 @@
-﻿using API_Front.Data;
-using API_Front.Models;
+﻿using API_Front.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Diagnostics;
@@ -76,6 +75,8 @@ namespace API_Front.Controllers
             }
             return RedirectToAction("ViewUser");
         }
+
+        //view by id
         public async Task<IActionResult> UpdateUser(int id)
         {
             HttpClient client = new HttpClient();

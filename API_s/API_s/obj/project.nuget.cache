@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "L5+ouOsFqx4elGU+pQP7krheOn7tyzqOeHlXrq0yii4PVjQcABw7U5oR0HQGiy9mr/4y6RMKVaG5Wn1/dTCEeQ==",
+  "dgSpecHash": "kAhFpsMaP6zobD2gs1gyBJevaox1IkXMauxYtT7Y98dWN3GtE0WmEkA1OEDwyAyp76Gf0oBQ/eH0r0yUmSCfzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\course\\API_s\\API_s\\API_s.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\course\\API\\API_s\\API_s\\API_s.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.18\\microsoft.aspnetcore.authentication.jwtbearer.6.0.18.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
